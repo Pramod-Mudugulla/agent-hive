@@ -19,7 +19,7 @@ This is a fullstack multi-agent customer support system built with Hono.dev, Rea
 1.  **Connect your GitHub repo** to Render.
 2.  Choose **Web Service**.
 3.  **Root Directory**: `apps/api`
-4.  **Build Command**: `npm install && npx prisma db push && npx prisma db seed && npm run build`
+4.  **Build Command**: `npm install && npx prisma generate && npx prisma db push && npx prisma db seed && npm run build`
 5.  **Start Command**: `npm start`
 6.  **Environment Variables**:
     - `GOOGLE_GENERATIVE_AI_API_KEY`: Your Gemini Key.
