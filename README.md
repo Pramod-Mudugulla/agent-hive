@@ -36,3 +36,7 @@ This is a fullstack multi-agent customer support system built with Hono.dev, Rea
 - **Conversational Context**: Maintains history across messages.
 - **Premium UI**: Dark mode, glassmorphism, and smooth animations using Framer Motion.
 - **Monorepo + Hono RPC**: Type safety across backend and frontend.
+
+## Notice
+
+- **FEEL FREE TO ALTER THE MODEL, CURRENTLY USING GEMINI-2.0-FLASH**
